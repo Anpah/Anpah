@@ -1,6 +1,6 @@
 # Hi there, I'm Nathaniel Ampah 👋
 
-# I am a Data Analyst, MBA in Business Analytics @ DPU University and Cloud Engineering Trainee @ Azubi Africa
+#I am a **Project Consultant** @ the Receivership of 23 Savings and Loans and Finance Houses Companies and an MBA candidate in Business Analytics @ DPU University. Currently, I am also a **Cloud Engineering** Trainee @ **Azubi Africa**. I am passionate about data and love telling compelling stories through **data-driven insights**
 
 Hello! I am a **passionate Data Analyst** with a background in finance. My journey into the world of data analysis has been fueled by my passion for uncovering insights from data and making informed decisions based on quantitative analysis. Combining my technical skills and domain expertise, I work to extract valuable insights that drive business growth and strategic decisions.
 
